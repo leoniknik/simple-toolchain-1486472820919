@@ -1,6 +1,6 @@
 Python app to demonstrate using inputs and outputs on a Raspberry Pi
 ================================================================================
-
+ 
 This is a sample application shows how to use simple inputs and outputs on a
 Raspberry Pi.  There is a server side component that runs in Bluemix (Cloud Foundry) and
 a Python client that runs on a Raspberry Pi.
