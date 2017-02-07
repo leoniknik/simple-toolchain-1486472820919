@@ -1,0 +1,4 @@
+---
+applications:
+- name: python-iot-hackathon
+  memory: 128M
